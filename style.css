@@ -1,0 +1,11 @@
+.operations {
+  padding: 70px;
+}
+
+.hidden {
+  display: none;
+}
+
+.active {
+  display: inline;
+}
